@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head> <title>travelling india</title>  
+<body>
+
+<h1> Login id </h1>
+
+
+<form>
+
+First name<input type="text" placeorder="Enter your name"><br>
+Last name<input type="text"><br>
+Password<input type="password"><br>
+Phone no.<input type="text" placeorder="Enter your phone no."><br>
+
+
+select gender<input type="radio" name="gender">Male<br>
+<input type="radio" name="gender">Female
+
+
+<br><button type=submit" value="submit">Submit form</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+
+</body>
+
+
+
+</html>
