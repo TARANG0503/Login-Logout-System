@@ -1,10 +1,10 @@
 header {
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(253, 153, 153);
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    height: 80px;
+    height: 60px;
     display: flex;
     align-items: center;
    
@@ -18,7 +18,7 @@ header li {
 }
 
 header li a {
-    color:black;
+    color:blue;
     text-decoration: none;
 }
 
