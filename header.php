@@ -16,8 +16,7 @@ session_start();
      <img src="" alt="logo">
     </a>
     <ul>
-      <li><a href="index.php">HOME</a></li>
-      <li><a href="#">SERVICES</a></li>
+     
       <li><a href="#">CONTACT</a></li>
       <li><a href="#">ABOUT ME</a></li>
     </ul>
